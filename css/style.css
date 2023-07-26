@@ -1,0 +1,113 @@
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@300;400;500;600;700;800&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "manrope", sans-serif;
+}
+
+h1 {
+  position: fixed;
+  top: 0;
+  left: 50;
+  margin-top: 50px;
+}
+
+button {
+  cursor: pointer;
+}
+
+body {
+  background-color: #0a0021;
+  color: #ffffff;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.conteiner {
+  background-color: #4c00ffaa;
+  width: 90%;
+  max-width: 800px;
+  border: 2px solid #4400ff71;
+  border-radius: 20px;
+  padding: 16px;
+  box-shadow: 0 0 2px 2px #0b0116;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.questions-conteiner {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+}
+
+.question {
+  font-size: 20px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.answers-conteiner {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 15px;
+}
+
+.next-question {
+  margin-top: 35px;
+}
+
+.button {
+  background-color: #0c00188d;
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: 700;
+  border: 0;
+  border-radius: 20px;
+  height: 50px;
+  padding: 0 32px;
+  transition: background-color 0.5s;
+}
+
+.button:not(:disabled):hover {
+  background-color: #0a0021;
+}
+
+.final-message{ 
+    font-size: 20px; 
+    font-weight: 700;
+    text-align: center;
+}
+
+.final-message span{
+    display: block;
+    margin-top: 8px;
+    margin-bottom: 20px;
+}
+
+
+.answers:disabled{
+    cursor: not-allowed;
+}
+
+.hide {
+  display: none;
+}
+
+.correct {
+  background-color: #00ff6a ;
+}
+
+.incorrect{
+    background-color: #ff0400;
+}
