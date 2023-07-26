@@ -20,9 +20,8 @@ Veja uma demo do projeto em ação [aqui](https://analeopoldino.github.io/Quiz/)
 
 Acessando o link abaixo:
 
-```bash
-link https://analeopoldino.github.io/Quiz/
-```
+link  [aqui](https://analeopoldino.github.io/Quiz/)
+
 ## Referência
 
 Este projeto foi desenvolvido com base em um vídeo tutorial do canal "Senhor Programador" no YouTube. O vídeo que utilizei como referência pode ser encontrado [aqui](https://youtu.be/IV34pOplBsY).
