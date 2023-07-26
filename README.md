@@ -1,6 +1,6 @@
 # Quiz Simples - README
 
-![Quiz Logo](imagens/quiz_readme.png)
+![Quiz Logo](imagens/quiz_rd.png)
 
 ## Descrição
 
