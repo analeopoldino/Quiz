@@ -1,6 +1,6 @@
 # Quiz Simples - README
 
-![Quiz Logo](imagens/quiz.png | 100x70)
+![Quiz Logo](imagens/quiz.png)
 
 ## Descrição
 
@@ -28,6 +28,7 @@ link https://analeopoldino.github.io/Quiz/
 Este projeto foi desenvolvido com base em um vídeo tutorial do canal "Senhor Programador" no YouTube. O vídeo que utilizei como referência pode ser encontrado [aqui](https://youtu.be/IV34pOplBsY).
 
 Agradeço ao canal Senhor Programador pela excelente explicação e orientação que me ajudaram a criar este Quiz.
+
 ---
 
 Obrigado por visitar o site de Quiz! Espero que ele possa servir como um guia útil para o desenvolvimento de projetos mais complexos no futuro.😊 
