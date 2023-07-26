@@ -4,7 +4,7 @@
 
 ## Descrição
 
-Bem-vindo ao nosso site de Quiz! Este é um projeto simples desenvolvido com HTML, CSS e JavaScript para criar uma plataforma de teste de perguntas e respostas básicas. É um projeto para fins educacionais e para demonstrar habilidades básicas em desenvolvimento web.
+Bem-vindo ao site de Quiz! Este é um projeto simples desenvolvido com HTML, CSS e JavaScript para criar uma plataforma de teste de perguntas e respostas básicas. É um projeto para fins educacionais e para demonstrar habilidades básicas em desenvolvimento web.
 
 ## Funcionalidades
 
