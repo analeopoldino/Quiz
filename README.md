@@ -1,6 +1,6 @@
-# Quiz Website - README
+# Quiz Simples - README
 
-![Quiz Logo](imagens/quiz.png) _(substitua "imagens/quiz.png" com o caminho da imagem do seu logotipo)_
+![Quiz Logo](imagens/quiz.png)
 
 ## Descrição
 
@@ -14,46 +14,20 @@ Bem-vindo ao nosso site de Quiz! Este é um projeto simples desenvolvido com HTM
 
 ## Demo
 
-Veja uma demo do projeto em ação [aqui](https://seu-link-demo-aqui).
-
-## Capturas de Tela
-
-_Adicione algumas capturas de tela do seu projeto para mostrar como é o visual do site._
-
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
+Veja uma demo do projeto em ação [aqui](https://analeopoldino.github.io/Quiz/).
 
 ## Como Executar o Projeto
 
-1. Clone o repositório:
+Acessando o link abaixo:
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+link https://analeopoldino.github.io/Quiz/
 ```
+## Referência
 
-2. Navegue até o diretório do projeto:
+Este projeto foi desenvolvido com base em um vídeo tutorial do canal "Senhor Programador" no YouTube. O vídeo que utilizei como referência pode ser encontrado [aqui](https://youtu.be/IV34pOplBsY).
 
-```bash
-cd nome-do-repositorio
-```
-
-3. Abra o arquivo `index.html` em um navegador web.
-
-## Como Contribuir
-
-Contribuições não são necessárias para este projeto, pois é apenas um exemplo simples para fins educacionais.
-
-## Licença
-
-Este projeto é licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
-## Contato
-
-Se você tiver alguma dúvida ou sugestão, por favor entre em contato:
-
-- Email: seuemail@example.com
-- Twitter: [@seuusuario](https://twitter.com/seuusuario)
-
+Agradeço ao "Senhor Programador" pela excelente explicação e orientação que me ajudaram a criar este Quiz.
 ---
 
-Obrigado por visitar nosso site de Quiz simples! Esperamos que ele possa servir como um guia útil para o desenvolvimento de projetos mais complexos no futuro. Divirta-se usando-o e aprendendo mais sobre desenvolvimento web! 😉
+Obrigado por visitar o site de Quiz! Espero que ele possa servir como um guia útil para o desenvolvimento de projetos mais complexos no futuro.😊 
