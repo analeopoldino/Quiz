@@ -28,4 +28,4 @@ Agradeço ao canal Senhor Programador pela excelente explicação e orientação
 
 ---
 
-Obrigado por visitar o site de Quiz! Espero que ele possa servir como um guia útil para o desenvolvimento de projetos mais complexos no futuro. 😊
+Obrigado por visitar o site de Quiz! Espero que ele possa servir como um guia útil para o desenvolvimento de projetos mais complexos no futuro. 😄😊
