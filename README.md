@@ -1,6 +1,6 @@
 # Quiz Simples - README
 
-![Quiz Logo](imagens/quiz.png)
+![Quiz Logo](imagens/quiz (1).png)
 
 ## Descrição
 
@@ -18,9 +18,7 @@ Veja uma demo do projeto em ação [aqui](https://analeopoldino.github.io/Quiz/)
 
 ## Como Executar o Projeto
 
-Acessando o link abaixo:
-
-link  [aqui](https://analeopoldino.github.io/Quiz/)
+Acesse o link [aqui](https://analeopoldino.github.io/Quiz/) para testar o quiz em seu navegador.
 
 ## Referência
 
@@ -30,4 +28,4 @@ Agradeço ao canal Senhor Programador pela excelente explicação e orientação
 
 ---
 
-Obrigado por visitar o site de Quiz! Espero que ele possa servir como um guia útil para o desenvolvimento de projetos mais complexos no futuro.😊 
+Obrigado por visitar o site de Quiz! Espero que ele possa servir como um guia útil para o desenvolvimento de projetos mais complexos no futuro. 😊
