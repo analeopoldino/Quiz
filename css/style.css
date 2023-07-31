@@ -8,10 +8,26 @@
 }
 
 h1 {
+  color:#000000;
+  font-size: 3.5rem;
+  font-weight: 800;
   position: fixed;
   top: 0;
   left: 50;
   margin-top: 50px;
+}
+
+.text{
+  position: fixed;
+  top: 0;
+  margin: 150px 0px 0px 0px;
+  color: #000000;
+  font-size: 1.5rem;
+  font-weight: 800;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
 }
 
 button {
@@ -19,7 +35,11 @@ button {
 }
 
 body {
-  background-color: #0a0021;
+  background-color: #ffffff;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
   color: #ffffff;
   height: 100vh;
   display: flex;
@@ -28,17 +48,18 @@ body {
 }
 
 .conteiner {
-  background-color: #4c00ffaa;
-  width: 90%;
+  background-color: #000000;
+  width: 100%;
   max-width: 800px;
-  border: 2px solid #4400ff71;
+  border: 2px solid #0000001c;
   border-radius: 20px;
   padding: 16px;
-  box-shadow: 0 0 2px 2px #0b0116;
+  box-shadow: 0 0 1px 1px rgba(0, 0, 0, 0.133);
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  margin: auto;
 }
 
 .questions-conteiner {
@@ -68,36 +89,35 @@ body {
 }
 
 .button {
-  background-color: #0c00188d;
+  background-color: #808080;
   color: #ffffff;
   font-size: 16px;
   font-weight: 700;
   border: 0;
   border-radius: 20px;
-  height: 50px;
+  min-height: 50px;
   padding: 0 32px;
   transition: background-color 0.5s;
 }
 
 .button:not(:disabled):hover {
-  background-color: #0a0021;
+  background-color: #3e3d40;
 }
 
-.final-message{ 
-    font-size: 20px; 
-    font-weight: 700;
-    text-align: center;
+.final-message {
+  font-size: 20px;
+  font-weight: 700;
+  text-align: center;
 }
 
-.final-message span{
-    display: block;
-    margin-top: 8px;
-    margin-bottom: 20px;
+.final-message span {
+  display: block;
+  margin-top: 8px;
+  margin-bottom: 20px;
 }
 
-
-.answers:disabled{
-    cursor: not-allowed;
+.answers:disabled {
+  cursor: not-allowed;
 }
 
 .hide {
@@ -105,9 +125,56 @@ body {
 }
 
 .correct {
-  background-color: #00ff6a ;
+  background-color: #00ff6a;
 }
 
-.incorrect{
-    background-color: #ff0400;
+.incorrect {
+  background-color: #ff0400;
+}
+
+/* Responsividade */
+
+/* Para telas menores que 600px */
+@media screen and (max-width: 600px) {
+  body {
+    background-size:cover;
+    background-position: center;
+  }
+
+  .conteiner {
+    max-width: 90%; 
+    margin-top: 70%;
+  }
+
+  .text{
+    font-size: 1.2rem;
+  }
+
+  .questions-container {
+    gap: 15px;
+   
+  }
+
+  .answers-conteiner {
+    grid-template-columns: 1fr;
+    width: 100%;
+  }
+
+  .button.answers {
+    padding: 5px;
+  }
+}
+
+/* Para telas entre 601px e 900px */
+@media screen and (min-width: 601px) and (max-width: 900px) {
+  .container {
+    max-width: 80%;
+  }
+}
+
+/* Para telas maiores que 900px */
+@media screen and (min-width: 901px) {
+  .container {
+    max-width: 800px;
+  }
 }
