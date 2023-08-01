@@ -2,17 +2,8 @@
 
 ![Quiz Logo](imagens/quiz_rd.png)
 
-## Descrição
-
 
 Este é um projeto simples desenvolvido com HTML, CSS e JavaScript para criar uma plataforma de teste de perguntas e respostas básicas. É um projeto para fins educacionais e para demonstrar habilidades básicas em desenvolvimento web.
-
-
-## Funcionalidades
-
-- Perguntas e respostas simples em uma única categoria.
-- Layout básico para navegação e exibição das questões.
-- Exibição dos resultados ao final do quiz.
 
 
 ## Instalação/Como usar
@@ -32,6 +23,17 @@ LINK: https://analeopoldino.github.io/RelogioDigital/
 ```
 </p>
 <br>
+
+
+## Funcionalidades
+
+* Perguntas e respostas simples em uma única categoria.
+* Layout básico para navegação e exibição das questões.
+* Exibição dos resultados ao final do quiz.
+
+
+## Contribuição
+Se você encontrar algum problema ou tiver sugestões de melhorias, fique à vontade para abrir uma "issue" ou enviar um "pull request". Sua contribuição é muito bem-vinda!
 
 
 ## Referência
