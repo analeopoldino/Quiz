@@ -40,7 +40,7 @@ Se você encontrar algum problema ou tiver sugestões de melhorias, fique à von
 
 Este projeto foi desenvolvido com base em um vídeo tutorial do canal "Senhor Programador" no YouTube. O vídeo que utilizei como referência pode ser encontrado [aqui](https://youtu.be/IV34pOplBsY).
 
-Agradeço ao canal Senhor Programador pela excelente explicação e orientação que me ajudaram a criar este Quiz.
+Agradeço ao canal **Senhor Programador** pela excelente explicação e orientação que me ajudaram a criar este Quiz.
 
 ---
 
