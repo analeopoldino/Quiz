@@ -19,7 +19,7 @@ Este é um projeto simples desenvolvido com HTML, CSS e JavaScript para criar um
 <p align="center">
 
 ```
-LINK: https://analeopoldino.github.io/RelogioDigital/
+LINK: https://analeopoldino.github.io/Quiz/
 ```
 </p>
 <br>
