@@ -132,9 +132,7 @@ body {
   background-color: #ff0400;
 }
 
-/* Responsividade */
 
-/* Para telas menores que 600px */
 @media screen and (max-width: 600px) {
   body {
     background-size:cover;
@@ -165,14 +163,14 @@ body {
   }
 }
 
-/* Para telas entre 601px e 900px */
+
 @media screen and (min-width: 601px) and (max-width: 900px) {
   .container {
     max-width: 80%;
   }
 }
 
-/* Para telas maiores que 900px */
+
 @media screen and (min-width: 901px) {
   .container {
     max-width: 800px;
