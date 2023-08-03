@@ -119,7 +119,7 @@ const questions = [
         question: "O que significa a sigla HTML em termos de programação web?",
         answers: [
             { text: "HyperText Markup Language", correct: true },
-            { text: "HyperText Markup Language", correct: false },
+            { text: "HyperText Markup", correct: false },
             { text: "Hyperlink and Text Markup Language", correct: false },
             { text: "Hyperlink Text Management Language", correct: false },
         ]
